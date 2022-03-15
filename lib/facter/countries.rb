@@ -1,3 +1,3 @@
-Facter.add('testing123') do
-  setcode 'testingsk'
+Facter.add('countries') do
+  setcode 'Singapore'
 end
