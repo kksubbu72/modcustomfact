@@ -1,3 +1,3 @@
-Facter.add(`testing123`) do
+Facter.add('testing123') do
   setcode 'testingsk'
 end
