@@ -1,4 +1,6 @@
 Facter.add('testing123') do
-  setcode 'testingsk'
+  setcode do 
+    'testingsk'
+  end
 end
 
