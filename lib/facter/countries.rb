@@ -1,3 +1,7 @@
-Facter.add(:countries) do
-  setcode 'Singapore'
+Facter.add('countries1') do
+
+  setcode do
+    'testingsk'
+  end
+
 end
