@@ -1,6 +1,5 @@
-Facter.add('testing123') do
-  setcode do 
-    'testingsk'
-  end
+Facter.add('stage') do
+    setcode do
+      'local'
+    end
 end
-
