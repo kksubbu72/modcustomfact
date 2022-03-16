@@ -1,7 +1,7 @@
 Facter.add('countries1') do
 
   setcode do
-    'testingsk'
+    'prodtesting'
   end
 
 end
